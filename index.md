@@ -7,7 +7,7 @@ title: Domů
 {% include sidemenu.html %}
 
 <div style="text-align: center;">
-  <img src="/web2/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
+  <img src="/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
 </div>
 
 # 👋 Vítejte na mém webu! -Michal
