@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domů
+title: WOMAN LOVE NATURE
 ---
 
 {% include nav.html %}
