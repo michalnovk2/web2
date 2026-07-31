@@ -1,6 +1,7 @@
 ---
 layout: default
 title: WOMAN LOVE NATURE
+description: INSPIRATION cz(LPN) (page at work) en(WLN)
 ---
 
 {% include nav.html %}
