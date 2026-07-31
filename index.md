@@ -6,6 +6,10 @@ title: Domů
 {% include nav.html %}
 {% include sidemenu.html %}
 
+<div style="text-align: center;">
+  <img src="/assets/images/xoxo.jpg" style="max-width: 100%; width: 500px;">
+</div>
+
 # 👋 Vítejte na mém webu! -Michal
 
 Jsem moc rád, že jste se sem zastavili. Tato stránka je postavená pomocí
