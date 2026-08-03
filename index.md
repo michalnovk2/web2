@@ -19,9 +19,9 @@ description: INSPIRATION cz(LPN) (page at work) en(WLN)
 
 I grow house and greenhouse plants sustainably on balcony with daily care and achieve impressive results with the help of bokashi fertilization.
 
-<div style="text-align: left;">
-  <img src="{{ site.baseurl }}/assets/images/tulen.jpg" style="max-width: 100%; width: 500px;">
+<div class="image-row">
+  <img src="{{ site.baseurl }}/assets/images/tulen.jpg">
+  <img src="{{ site.baseurl }}/assets/images/srdce.jpg">
 </div>
-
 
 ---
