@@ -148,3 +148,20 @@
   max-width: 48%;
   height: auto;
 }
+
+// Text a obrazek
+
+.text-image-row {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.text-image-row > div {
+  flex: 1;
+  min-width: 250px;
+}
+.text-image-row img {
+  width: 100%;
+  height: auto;
+}
