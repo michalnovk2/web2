@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 wolpnat@gmail.com
 
 PŘIJÍMÁM OBJEDNÁVKY/ I ACCEPT ORDERS.

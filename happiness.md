@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 Jak se jmenovala? Eva? Žena?
 
 "Ta se na nás asi pěkně hněvá!"...ěvá...evá...Eva. Kde je soudržnost a pracovitost rodin ve společnosti?

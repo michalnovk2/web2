@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 Are you on homeoffice? The best idea is to go out with your family now and return to your perfectly cleaned home, without stress and effort.
 
 A visit? Shine with ECO polished household.

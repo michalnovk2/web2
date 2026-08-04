@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 ...just like the succesfull bro of my beloved and artistically based g´pa ...humbly intelligently decent character personalities...
 
 ..."everythig lit.er.a.lly played under their hands"...

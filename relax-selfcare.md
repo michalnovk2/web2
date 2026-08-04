@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 SELFCARE first LADIES
 
 Outsourcing needed:

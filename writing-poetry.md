@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% include nav.html %}
+{% include sidemenu.html %}
+
 Ne vše bylo řečeno...
 
 Kam máš namířeno?
