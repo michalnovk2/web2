@@ -54,4 +54,42 @@ A kde není LÉPE, tak bude... IKIGAI.. koncept pro každého .....DRŽME SE.
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/pocitac.jpg" style="max-width: 100%; width: 500px;">
 </div>
+
+KAŽDÝ JEDINEC PŘINÁŠÍ JEDINEČNÝ KUS DOBRA - TO NALÉZEJME V KAŽDĚM Z NÁS🙏🏻 JEAN GIONO - HOMME QUI PLANTAIT DES ARBES (THE MAN WHO PLANTED TREES)
+
+obr
+
+FAMILY DAYs - Sol lucet omnibus
+
+obr
+
+we all are famlove - everyday :o)
+
+W O M A N-LOVE-N A T U R E 
+ŽENSKOST - SÍLA DUCHA, LÁSKY a VÍRY / TOGETHER FOREVER  SUPPORT FOR EVERYONE IS HERE FOR YOU  WELCOME JUNE ❤ - WELCOME THE SUMMER MONTH -  WELCOME PEACE & CALM now and here :o))  DISCIPLINE YOURSELF WITH LOVE & CONFIDENCE  PROGRAM POSITIVE STRONG ENERGY MINDSET  REPETITION IS THE MOTHER OF LEARNING  PEACE, HEALTH, QUIET TIMES & LOVE IN 2025  LOVE and more LIGHT TO THESE DAYS,  HYGGE style ❤
+
+obr, obr EKO BIOTOP SYSTEM for several years maintenance-free aqua under needed professional supervision
+
+obr
+Family days, Environmental day JEAN GIONO - HOMME QUI PLANTAIT DES ARBES (THE MAN WHO PLANTED TREES)
+
+obr
+
+obr
+
+...mature woman´s beauty ....
+
+obr, txt
+Dear FRIENDS,  Welcome on sites of LOVE, HARMONY and NATURE.  Now and Here.  Sense IT❤. Let´s be an INSPIRATION for ours lives.  Let´s be LOVE.  The EARTH, our Home is pure NATURE we take CARE of.  Let´s HELP TOGETHER discover HOW TO BE THE BEST in taking CARE of OURSELVES.  We than understand the EARTH. It needs this CARE, it is our HOME.  wolpnat@gmail.com
+
+obr txt, obr
+WRITE on...., I preffer personal letters, mails more than likes/dislikes,...tks for understanding............... I am an old school and also I know that we can make personal talk/call rather.
+
+LASKAVOST je i ONA
+...... rodící a spoustu měsíců v sobě nosící poklady.  Ty zde v ČASOPROSTORU získávají apriori cenné ZKUŠENOSTI, a ZNALOSTI. Jsme to my.  Žijme v SOUL ADDu ..  OSLAVME V TENTO ČAS ODPOVĚDNOST, LÁSKU, PARTNERSTVÍ, SMYSLNOST A PLODNOST MOUDRÉ INSTINKTIVNÍ ŽENY, RODINU, HARMONII.  Let´s tune into our wise intuition through the care of surroundings from natural aromatherapy, herbal medicine, circadian, astrology to the psyche, inner side and spirit, inner child, cell phone free days, woman cycle to be the loving and caring understanding self confident good looking and relatively healthy projectors through the exercises, massages, relationships and nice thinking energy vibes, slow down and be generators for ourselves and support to our loved ones, be even more patient to our children and family, relatives and friends and acquaintances.  Feel free to contact me to tap on the topic. We are on our ways.  Spojme náš Prostor a společný Domov!!! v NÁDHERNÉ JEDNO ❤.Dejme mu MELODII a Rytmus = NÁLADU
+
+obr
+
+obr
+
 ---
