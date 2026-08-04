@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+INSPIRATION
+
+cz(LPN) (page at work) en(WLN)
+
