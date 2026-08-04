@@ -1,9 +1,9 @@
 <div class="nav-wrapper">
-  <a href="{{ site.baseurl }}/" class="nav-btn">Domů</a>
 <!-- ROZBALOVACI TLACITKO -->
   <div class="dropdown">
-    <button class="nav-btn" onclick="toggleMenu() {{ site.baseurl }}/">Úvod ▾</button>
+    <button class="nav-btn" onclick="toggleMenu()">Úvod ▾</button>
     <div class="dropdown-content" id="myDropdown">
+      <a href="{{ site.baseurl }}/">Domů</a>
       <a href="{{ site.baseurl }}/relax-selfcare.html">Relax selfcare</a>
       <a href="{{ site.baseurl }}/hobbies.html">Hobbies</a>
       <a href="{{ site.baseurl }}/children-caring.html">Children caring</a>
@@ -14,8 +14,11 @@
   </div>
 
 <!-- TLACITKA -->
-  <a href="{{ site.baseurl }}/o-mne.html" class="nav-btn">O mně</a>
-  <a href="{{ site.baseurl }}/kontakt.html" class="nav-btn">Kontakt</a>
+  <a href="{{ site.baseurl }}/painting.html" class="nav-btn">Painting</a>
+  <a href="{{ site.baseurl }}/hand-made.html" class="nav-btn">Hand made</a>
+  <a href="{{ site.baseurl }}/writing-poetry.html" class="nav-btn">Writing/Poetry</a>
+  <a href="{{ site.baseurl }}/happiness.html" class="nav-btn">Happiness</a>
+  <a href="{{ site.baseurl }}/contact.html" class="nav-btn">Contact</a>
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/dropdown.js"></script>
