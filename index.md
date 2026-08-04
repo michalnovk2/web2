@@ -42,4 +42,16 @@ Protože Vám přeji prožití klidného nejen dnešního dne. Protože to děl�
   </div>
 </div>
 
+26. týden   r.  2026 - LÁSKU, LASKAVOST, ZDRAVÍ, MOUDROST, ZODPOVĚDNOST, POHODU, RADOST, HARMONII A TO VŠICHNI i TI, CO SI JIŽ UVĚDOMUJÍ, ŽE HRAVOST a RADOST NENÍ JEN V TALENTU, ALE VE ŠTĚSTÍ BÝT, JEDNODUŠE A SPOLU BÝT A TVOŘIT ZA POMOCI SDÍLENÍ, PODPOROVAT A MOTIVOVAT NAŠE DĚTI SPRÁVNÝM SMĚREM ❤
+AHOJ HYGGE style  Dokážeme-li si takto vzájemně pomáhat, je tu čím dál lépe a veseleji a to všude.
+
+The more you know, the more respectfull and carefull you are in any ways. It is strength, not weakness. Please be kind to anyone, who was hurt. Let´s be polite. 
+
+NEJEN HUDBA a TANEC SPOJUJE, TVOŘME ❤  
+
+A kde není LÉPE, tak bude... IKIGAI.. koncept pro každého .....DRŽME SE.
+
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/pocitac.jpg" style="max-width: 100%; width: 500px;">
+</div>
 ---
